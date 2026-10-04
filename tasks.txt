@@ -1,0 +1,4 @@
+1|Review Java File I/O Docs|Read BufferedReader and BufferedWriter APIs|Completed
+2|Implement Task 5 Persistence|Save & load tasks from tasks.txt file|Completed
+3|Build Interactive Scraper|Develop Task 6 web scraping utility|In Progress
+4|Push Code to GitHub|Publish internship repository|In Progress
